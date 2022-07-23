@@ -4,5 +4,4 @@ public class TarikClass {
 
         System.out.println("Hey, I am your classmate!");
     }
-
 }
